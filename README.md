@@ -10,4 +10,4 @@
 
 * Uso do comando git restore --> restaura ao estado anterior
 
-* Uso do comando git fetch enter depois git diff origin/main --> para saber o que vai ser modificado no projeto antes de usar o git pull
+* Git fetch enter depois git diff origin/main --> para saber o que vai ser modificado no projeto antes de usar o git pull
