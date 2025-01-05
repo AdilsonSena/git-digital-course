@@ -1,3 +1,9 @@
 # Curso Digital: Git/Versionamento
 
 ## Salvando modificações no Git
+
+* Uso do comando git push --> para subir arquivos
+
+* Uso do comando git log --> mostra o que foi feito e por quem foi feito
+
+* Uso do comando git restore --> restaura ao estado anterior
