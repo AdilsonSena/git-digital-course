@@ -11,3 +11,5 @@
 * Uso do comando git pull --> atualiza o projeto;
 
 * Git fetch enter depois git diff origin/main --> para saber o que vai ser modificado no projeto antes de usar o git pull;
+
+* Git merge master --> Atualiza a branch principal main com as alterações feitas na master;
